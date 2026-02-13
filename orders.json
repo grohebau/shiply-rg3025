@@ -1,6 +1,6 @@
 {
   "S33516": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Lukas Jensen, Möwenstraße 8, 18209 Bad Doberan, Deutschland",
     "receiver": "Vinzenz Bernard, Spessartstraße 30b, 97816 Lohr am Main, Deutschland",
@@ -26,7 +26,7 @@
       }
     ],
     "orderDate": "06.02.2026",
-    "deliveryDate": "13.02.2026 - 15:30 Uhr",
+    "deliveryDate": "Die Lieferung ist für Montag, den 16.02.2026, gegen 15:00 Uhr geplant",
     "pickup": {
       "street": "",
       "postal_code": "",
