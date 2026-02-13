@@ -28,10 +28,10 @@
     "orderDate": "06.02.2026",
     "deliveryDate": "Die Lieferung ist für Montag, den 16.02.2026, gegen 15:00 Uhr geplant",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "An d. Wann 5",
+      "postal_code": "63589",
+      "city": "Linsengericht",
+      "country": "Deutschland",
       "lat": "",
       "lng": ""
     },
